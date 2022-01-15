@@ -4,7 +4,7 @@ import static com.my.HMACSHA_Util.hmacSha256;
 
 public class Test {
 
-    private static String plaintext = "35354759457138217852516642742746639193200";
+    private static String plaintext = "";
 
     public static void main(String[] args) {
         test1();
